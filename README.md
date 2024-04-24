@@ -1,4 +1,4 @@
-# LICENSE GENERATOR
+# [LICENSE GENERATOR](license.virajbhartiya.com)
 
 Generate license files for your projects.
 
